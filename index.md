@@ -17,3 +17,11 @@
 <p>マークダウンだと反応しないので、HTMLで記述してみます</p>
 <img src="https://octodex.github.com/images/yaktocat.png" art="猫の戦士？" tigle="サンプル" width="193" height="130"> 
 <p>HTML記述だと反応する、、、なぜ？</p>
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+<p>サンプルコードをコピペしてみたけど、```がそのままある、、どういうことだろうか？<br>
+よくわからないが、How it Looks の欄にあるコードも以下にコピペしておく。</p>
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
