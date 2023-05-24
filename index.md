@@ -14,3 +14,6 @@
 ![代替テキスト入力](https://octodex.github.com/images/yaktocat.png)
 <p>Skillsのサンプルテキストがうまく機能しないので別のマークダウンを記述します</p>
 ![dummy image01](https://placehold.jp/3697c7/ffffff/360x180.png?text=dummy)
+<p>マークダウンだと反応しないので、HTMLで記述してみます</p>
+<img src="https://octodex.github.com/images/yaktocat.png" art="猫の戦士？" tigle="サンプル" width="193" height="130"> 
+<p>HTML記述だと反応する、、、なぜ？</p>
