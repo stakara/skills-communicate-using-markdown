@@ -25,3 +25,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 よくわからないが、How it Looks の欄にあるコードも以下にコピペしておく。</p>
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+<h3>タスクリストを記述します</h3>
+- [x] チェックを入れる
+- [x] チェックを入れる
+- [ ] チェックを外す
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
