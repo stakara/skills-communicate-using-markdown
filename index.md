@@ -7,3 +7,6 @@
 <h4>H4タグで入力して改行のbrタグ打ってみます<br>改行された</h4>
 <h5>H5タグ付けます</h5>
 <h6>H6タグです</h6>
+# This is an `<h1>` header, which is the largest
+## This is an `<h2>` header
+###### This is an `<h6>` header, which is the smallest
